@@ -15,6 +15,14 @@ public class HolaMundo {
 		System.out.println("5");
 		System.out.println("7");
 		System.out.println("8");
+		
+		System.out.println("a");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("e");
+
+
+
 
 		System.out.println("a");
 		System.out.println("b");
